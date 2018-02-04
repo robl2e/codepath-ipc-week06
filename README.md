@@ -12,3 +12,15 @@ Problems:
 * Stairs
 * BestTimeBuySellStocks
 * JumpGameArray
+
+# Assignment 6
+
+## GIF Walkthrough
+
+<img src='https://i.imgur.com/JgqdIvj.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
+Problems:
+* MinSumPathMatrix
+* BestTimeBuySellStocksII
+* UniqueBinarySearchTreeII
+* DigitNumWithDigitSum
